@@ -1,16 +1,50 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Oii%2C+eu+sou+o+Isaac!)](https://git.io/typing-svg)
 
-<!--
-**Isaacboniii/Isaacboniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div id="badges">
+  <a href = "https://www.linkedin.com/in/isaac-bonifacio-dias-14381a261/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-Here are some ideas to get you started:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Isaacboniii?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+Desenvolvedor Fullstack JavaScript!
+
+- 🧠 Estudando Desenvolvimento FullStack com NodeJS e ReactJS.
+- 🙏 Cristão, Amo Tecnologia e Games !
+- 👩‍💻 Desenvolvedor back-end, pretendo me tornar fullstack.
+
+---
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+ <h1><strong>Personal Projects</strong></h1>
+* Neste espaço vou adicionar meus projetos pessoais onde posso colocar meus conhecimentos em pratica. 
+
+|Calculadora|PokeDex|
+|:------:|:------:|
+|<a href="https://calculadora-zeta-ashy.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" /></a>|<a href="https://pokedex-zeta-one.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/pokeball-one.svg" /></a>
+|<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|
+
+---
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Brunodox&show_icons=true&theme=aura&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=9Brunodox&show_icons=true&show_icons=true&theme=aura&count_private=true" />
+</div>
+
+![](https://komarev.com/ghpvc/?username=Isaacboniii&label=PROFILE+VIEWS)
