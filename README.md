@@ -47,5 +47,3 @@ Desenvolvedor Fullstack JavaScript!
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Isaacboniii&label=PROFILE+VIEWS)
-
-![Snake animation](https://github.com/Isaacboniii/Isaacboniii/blob/output/github-contribution-grid-snake.svg)
