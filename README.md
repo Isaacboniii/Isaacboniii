@@ -13,7 +13,7 @@ Desenvolvedor Fullstack JavaScript!
 
 - 🧠 Estudando Desenvolvimento FullStack com NodeJS e ReactJS.
 - 🙏 Cristão, Amo Tecnologia e Games !
-- 👩‍💻 Desenvolvedor back-end, pretendo me tornar fullstack.
+- 👩‍💻 Procurando Primeira vaga como Dev.
 
 ---
 
@@ -42,7 +42,7 @@ Desenvolvedor Fullstack JavaScript!
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacboniiix&show_icons=true&theme=aura&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacboniii&show_icons=true&theme=aura&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Isaacboniii&show_icons=true&show_icons=true&theme=aura&count_private=true" />
 </div>
 
