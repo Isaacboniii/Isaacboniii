@@ -32,8 +32,7 @@ Desenvolvedor Fullstack JavaScript!
 
 ---
 
- <h1><strong>Personal Projects</strong></h1>
-* Neste espaço vou adicionar meus projetos pessoais onde posso colocar meus conhecimentos em pratica. 
+ <h1><strong>Projetos</strong></h1>
 
 |Calculadora|PokeDex|
 |:------:|:------:|
@@ -43,8 +42,8 @@ Desenvolvedor Fullstack JavaScript!
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Brunodox&show_icons=true&theme=aura&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=9Brunodox&show_icons=true&show_icons=true&theme=aura&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacboniiix&show_icons=true&theme=aura&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Isaacboniii&show_icons=true&show_icons=true&theme=aura&count_private=true" />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Isaacboniii&label=PROFILE+VIEWS)
