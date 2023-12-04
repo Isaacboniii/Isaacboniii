@@ -17,6 +17,15 @@ Desenvolvedor Fullstack JavaScript!
 
 ---
 
+ <h1><strong>Projetos</strong></h1>
+
+|Calculadora|PokeDex|
+|:------:|:------:|
+|<a href="https://calculadora-zeta-ashy.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" /></a>|<a href="https://pokedex-zeta-one.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/pokeball-one.svg" /></a>
+|<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|
+
+---
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
