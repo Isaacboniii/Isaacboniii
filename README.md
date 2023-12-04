@@ -33,15 +33,6 @@ Desenvolvedor Fullstack JavaScript!
 
 ---
 
- <h1><strong>Projetos</strong></h1>
-
-|Calculadora|PokeDex|
-|:------:|:------:|
-|<a href="https://calculadora-zeta-ashy.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" /></a>|<a href="https://pokedex-zeta-one.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/pokeball-one.svg" /></a>
-|<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|
-
----
-
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacboniii&show_icons=true&theme=aura&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Isaacboniii&show_icons=true&show_icons=true&theme=aura&count_private=true" />
