@@ -21,7 +21,7 @@ Desenvolvedor Fullstack JavaScript!
 
 |Calculadora|PokeDex|
 |:------:|:------:|
-|<a href="https://calculadora-zeta-ashy.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" /></a>|<a href="https://pokedex-zeta-one.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/pokeball-one.svg" /></a>
+|<a href="https://calculadora-zeta-ashy.vercel.app/"><img height="50px" src="https://https://github.com/Isaacboniii/LampadaJS/blob/main/lampada-logo.png" /></a>|<a href="https://pokedex-zeta-one.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/pokeball-one.svg" /></a>
 |<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|
 
 ---
