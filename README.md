@@ -21,7 +21,7 @@ Desenvolvedor Fullstack JavaScript!
 
 |LampadaJS|PokeDex|
 |:------:|:------:|
-|<a href="https://lampada-js-mu.vercel.app/"><img height="50px" src="https://github.com/Isaacboniii/LampadaJS/blob/main/lampada-logo.png" /></a>|<a href=""><img height="50px" src="https://www.klipartz.com/en/sticker-png-xfldo" /></a>
+|<a href="https://lampada-js-mu.vercel.app/"><img height="50px" src="https://github.com/Isaacboniii/LampadaJS/blob/main/lampada-logo.png" /></a>|<a href=""><img height="50px" src="https://github.com/Isaacboniii/Pokedex/blob/main/PokeBola.png" /></a>
 |<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>|
 
 ---
