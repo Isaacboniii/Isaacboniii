@@ -11,9 +11,8 @@
 
 Desenvolvedor Fullstack JavaScript!
 
-- 🧠 Estudando Desenvolvimento FullStack com NodeJS e ReactJS.
+- 🧠 Estudando Desenvolvimento FullStack.
 - 🙏 Cristão, Amo Tecnologia e Games !
-- 👩‍💻 Procurando Primeira vaga como Dev.
 
 ---
 
