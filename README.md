@@ -9,9 +9,8 @@
 
 </div>
 
-Desenvolvedor Fullstack JavaScript!
+Desenvolvedor de Chatbots!
 
-- 🧠 Estudando Desenvolvimento FullStack.
 - 🙏 Cristão, Amo Tecnologia e Games !
 
 ---
